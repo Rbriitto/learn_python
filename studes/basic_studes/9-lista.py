@@ -7,7 +7,6 @@ filmsList = ["Inception","The Shawwshank redemption",
             "The Dark knight","Pulp Fiction", "Interstellar"]
 
 # 1- Buscar os dois primeiros 
-
 print(filmsList[:2])
 
 # 2 - Buscar o ultimo item da lista

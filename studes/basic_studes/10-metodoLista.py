@@ -19,4 +19,8 @@ print(filmsList)
 #5 - Copiar os itens de uma lista para outra
 filmsCopy = filmsList.copy()
 filmsCopy.remove("Pulp Fiction")
-print(filmsCopy)8422
+print(filmsCopy)
+
+#6 - Remove todos os filmes
+filmsList.clear()
+print(filmsList)
