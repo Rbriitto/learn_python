@@ -27,7 +27,7 @@ elif operation == "/":
       else:
            print("Erro: não divisivel por 0 (zero)") 
            result = 0
-           
+                                                 
 else:
       print("Operaçao Inválida")
       result = 0
